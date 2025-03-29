@@ -53,7 +53,6 @@ word1 and word2 consist of lowercase English letters.
 Solution :
 
 ``` python
-class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         result = []
         i, j= 0,0

@@ -97,7 +97,6 @@ Input: str1 = "LEET", str2 = "CODE"
 Output: ""
 
 ```
-
 Constraints:
 
 - 1 <= str1.length, str2.length <= 1000
